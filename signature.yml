@@ -1,2 +1,4 @@
 scanner:
   buckler-project/md5-scanner
+data:
+  data/
